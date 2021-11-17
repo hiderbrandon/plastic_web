@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hiderbrandon/plastic_web.git/static/css/main.99b93b4d.chunk.css",
+    "main.js": "/hiderbrandon/plastic_web.git/static/js/main.67428681.chunk.js",
+    "main.js.map": "/hiderbrandon/plastic_web.git/static/js/main.67428681.chunk.js.map",
+    "runtime-main.js": "/hiderbrandon/plastic_web.git/static/js/runtime-main.799dbe26.js",
+    "runtime-main.js.map": "/hiderbrandon/plastic_web.git/static/js/runtime-main.799dbe26.js.map",
+    "static/css/2.a1596f27.chunk.css": "/hiderbrandon/plastic_web.git/static/css/2.a1596f27.chunk.css",
+    "static/js/2.4d29c789.chunk.js": "/hiderbrandon/plastic_web.git/static/js/2.4d29c789.chunk.js",
+    "static/js/2.4d29c789.chunk.js.map": "/hiderbrandon/plastic_web.git/static/js/2.4d29c789.chunk.js.map",
+    "index.html": "/hiderbrandon/plastic_web.git/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/hiderbrandon/plastic_web.git/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.99b93b4d.chunk.css.map": "/hiderbrandon/plastic_web.git/static/css/main.99b93b4d.chunk.css.map",
+    "static/js/2.4d29c789.chunk.js.LICENSE.txt": "/hiderbrandon/plastic_web.git/static/js/2.4d29c789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.799dbe26.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.4d29c789.chunk.js",
+    "static/css/main.99b93b4d.chunk.css",
+    "static/js/main.67428681.chunk.js"
+  ]
+}
