@@ -4,12 +4,12 @@ import Carousel  from 'react-bootstrap/Carousel'
 
 const Slider = () => {
     return (
-        <div>
-            <Carousel>
+        <div className="CarouselWrapper">
+            <Carousel className="col-md-12">
                 <CarouselItem interval={3000}>
                     <img
                         className="d-block w-100"
-                        src="https://picsum.photos/700/200"
+                        src="https://picsum.photos/720/480"
                         alt="First slide"
                     />
                     <Carousel.Caption>
@@ -20,7 +20,7 @@ const Slider = () => {
                 <CarouselItem interval={3000}>
                     <img
                         className="d-block w-100"
-                        src="https://picsum.photos/700/200"
+                        src="https://picsum.photos/720/480"
                         alt="Second slide"
                     />
 
@@ -32,7 +32,7 @@ const Slider = () => {
                 <CarouselItem interval={3000}>
                     <img
                         className="d-block w-100"
-                        src="https://picsum.photos/700/200"
+                        src="https://picsum.photos/720/480"
                         alt="Third slide"
                     />
 

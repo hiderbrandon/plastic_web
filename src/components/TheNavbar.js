@@ -1,4 +1,5 @@
 import Navbar from "react-bootstrap/Navbar";
+import WhatsappFloat from "./WhatsappFloat";
 
 const TheNavbar = () => {
     return (
@@ -13,11 +14,11 @@ const TheNavbar = () => {
                             alt="public/compaq-1"
                         />
                     </Navbar.Brand>
-                <Navbar.Collapse className="justify-content-end">
-                    <Navbar.Text>
-                        <a href="#login">contacto</a>
-                    </Navbar.Text>
-                </Navbar.Collapse>
+                    <Navbar.Collapse className="justify-content-end">
+                        <Navbar.Brand>
+                            <WhatsappFloat></WhatsappFloat>
+                        </Navbar.Brand>
+                    </Navbar.Collapse>
             </Navbar>
         </div>
     );

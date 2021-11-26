@@ -2,7 +2,7 @@
     display: flex;
     box-sizing:content-box ;
     align-content: center;
-    margin: 15px;
+    margin: auto;
     background-color:#353535;
     
 }
@@ -11,7 +11,7 @@
     text-align: left;
     box-sizing:content-box ;
     align-content: center;
-    padding-top: 20%;
+    padding-top: 10%;
     padding-left: 2%;
     font-size: 22px;
     color: #d9d9d9;
@@ -20,9 +20,8 @@
 }
 .mapouter{
     position:relative;
-    text-align:right;
     height:auto;
-    width:487px;
+    width:70%;
     padding-bottom: 15px;
     overflow: hidden;
 }
@@ -31,6 +30,26 @@
     overflow:hidden;
     background:none!important;
     height:500px;
-    width:100%;
+    width:90%;
    
+}
+
+@media screen and (max-width: 720px){
+
+    .LocationWrapper{
+        display:grid;
+        grid-template-columns:auto;
+    }
+
+    .Info{
+        margin: auto;
+        width: 50%;
+        text-align: center;
+        box-sizing:content-box ;
+        align-content: center;
+        font-size: 22px;
+        color: #d9d9d9;
+        
+       
+    }
 }
