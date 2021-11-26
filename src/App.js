@@ -10,7 +10,7 @@ import WhatsappFloat from "./components/WhatsappFloat";
 function App() {
   return (
     <div className="App" >
-      <div style={{'padding-top':'15%'}} ></div>
+     
       <TheNavbar id='CarouselWrapper'></TheNavbar>
       <Slider id="TheSlider" ></Slider>
       <Cards></Cards>

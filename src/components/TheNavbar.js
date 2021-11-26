@@ -14,11 +14,7 @@ const TheNavbar = () => {
                             alt="public/compaq-1"
                         />
                     </Navbar.Brand>
-                    <Navbar.Collapse className="justify-content-end">
-                        <Navbar.Brand>
-                            <WhatsappFloat></WhatsappFloat>
-                        </Navbar.Brand>
-                    </Navbar.Collapse>
+                    
             </Navbar>
         </div>
     );
