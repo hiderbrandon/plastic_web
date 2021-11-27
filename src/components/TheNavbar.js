@@ -1,5 +1,4 @@
 import Navbar from "react-bootstrap/Navbar";
-import WhatsappFloat from "./WhatsappFloat";
 
 const TheNavbar = () => {
     return (
@@ -7,11 +6,11 @@ const TheNavbar = () => {
             <Navbar fixed='top' className="TheNavbar">
                     <Navbar.Brand href="#home">
                         <img
-                            src="https://cdn.worldvectorlogo.com/logos/pax-east.svg"
+                            src="https://cdn.worldvectorlogo.com/logos/creyfs.svg"
                             width="80"
                             height="80"
                             className="d-inline-block align-top"
-                            alt="public/compaq-1"
+                            alt="LOGO"
                         />
                     </Navbar.Brand>
                     

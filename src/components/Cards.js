@@ -30,15 +30,15 @@ const cards = [
 
 function Cards() {
   return (
-    <div className="container d-flex justify-content-center align-items-center">
-      <div className="row">
+    <section className=" d-flex justify-content-center align-items-center Cards">
+      <div className="row container">
         {cards.map(({ title, image, id ,text}) => (
           <div className="col-md-4 col-xs-4" key={id}>
             <Card imageSource={image} title={title} text={text} />
           </div>
         ))}
       </div>
-    </div>
+    </section>
   );
 }
 

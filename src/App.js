@@ -5,7 +5,7 @@ import Location from './components/Location'
 import TheNavbar from "./components/TheNavbar";
 import Footer from "./components/Footer";
 import WhatsappFloat from "./components/WhatsappFloat";
-
+import ContactUs from "./components/ContactUs"
 
 function App() {
   return (
@@ -13,8 +13,11 @@ function App() {
      
       <TheNavbar id='CarouselWrapper'></TheNavbar>
       <Slider id="TheSlider" ></Slider>
-      <Cards></Cards>
-      <Location></Location>
+      <Cards ></Cards>
+      <ContactUs></ContactUs>
+      <a id="location">
+      <Location ></Location>
+      </a>
       <Footer></Footer>
       <WhatsappFloat></WhatsappFloat>
 

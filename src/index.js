@@ -7,6 +7,9 @@ import './components/Location.css'
 import './components/TheNavbar.css'
 import './components/Footer.css'
 import './components/Slider.css'
+import './components/ContactUs.css'
+import './components/Cards.css'
+
 
 import App from './App';
 
