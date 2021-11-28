@@ -32,15 +32,15 @@
 	margin-top:16px;
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 800px){
 
 	.float{
 		position:fixed;
 		width:200px;
 		height:60px;
-		top:40px;
+		top:px;
 		right:40px;
-		background-color:#000000;
+		background-color:#6b6b6b;
 		color:#FFF;
 		border-radius:50px;
 		text-align:center;

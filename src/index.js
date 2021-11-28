@@ -9,6 +9,11 @@ import './components/Footer.css'
 import './components/Slider.css'
 import './components/ContactUs.css'
 import './components/Cards.css'
+import './components/InfoSection.css'
+import './components/InfoSection2.css'
+import './components/InfoSection3.css'
+
+
 
 
 import App from './App';
