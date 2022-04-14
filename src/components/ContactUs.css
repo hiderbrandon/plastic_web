@@ -6,7 +6,7 @@
 
 #contact {
   color: white;
-  background-color: #a6b361;
+  background-color: #0FA3B1;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 720px;
@@ -34,7 +34,7 @@
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #e0eba9;
+  color: #096169;
 }
 
 .tm-input {
@@ -43,7 +43,7 @@
   padding: 8px 20px;
   border-radius: 6px;
   border: 1px solid white;
-  background: #99a174;
+  background: #43cfdb;
   color: rgba(0, 0, 0, 0.973);
 }
 
