@@ -9,6 +9,7 @@ import ContactUs from "./components/ContactUs"
 import InfoSection from "./components/InfoSection"
 import InfoSection2 from "./components/InfoSection2"
 import InfoSection3 from "./components/InfoSection3"
+import Introduction from "./components/Introduction"
 
 
 function App() {
@@ -16,11 +17,12 @@ function App() {
     <div className="App" >
      
       <TheNavbar id='CarouselWrapper'></TheNavbar>
-      <Slider id="TheSlider" ></Slider>
-      <Cards ></Cards>
+      <Introduction></Introduction>
+      <Cards></Cards>
       <InfoSection></InfoSection>
-      <InfoSection3></InfoSection3>
       <InfoSection2></InfoSection2>
+      <InfoSection3></InfoSection3>
+      <Slider id="TheSlider" ></Slider>
       <ContactUs></ContactUs>
       <a id="location">
       <Location ></Location>

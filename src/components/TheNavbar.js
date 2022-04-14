@@ -1,12 +1,13 @@
-import Navbar from "react-bootstrap/Navbar";
+import Navbar from "react-bootstrap/Navbar"; 
+import Santander from "../img/Santander_2.png";
 
 const TheNavbar = () => {
     return (
         <div>
-            <Navbar fixed='top' className="TheNavbar">
+            <Navbar className="TheNavbar">
                     <Navbar.Brand href="#home">
                         <img
-                            src="https://cdn.worldvectorlogo.com/logos/creyfs.svg"
+                            src={Santander}
                             width="80"
                             height="80"
                             className="d-inline-block align-top"

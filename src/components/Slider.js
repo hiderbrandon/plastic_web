@@ -9,7 +9,7 @@ const Slider = () => {
                 <CarouselItem interval={3000}>
                     <img
                         className="d-block w-100"
-                        src="https://picsum.photos/720/480"
+                        src="https://picsum.photos/280/128"
                         alt="First slide"
                     />
                     <Carousel.Caption>

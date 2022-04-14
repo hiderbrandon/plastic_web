@@ -11,8 +11,8 @@ function InfoSection2() {
                 </div>
                 <div class="col-md-6">
                     <div class="full">
-                        <h1><strong class="cur">more info</strong><br/>about tem 3</h1>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
+                        <h1><strong class="cur">Bolsas o laminas</strong><br/></h1>
+                            <p>poseemos diversos tipos de sellado siguiendo las exigencias de nuestros clientes. Por lo tanto ofrecemos al mercado</p>
                     </div>
                 </div>
             </div>

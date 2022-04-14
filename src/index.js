@@ -12,6 +12,8 @@ import './components/Cards.css'
 import './components/InfoSection.css'
 import './components/InfoSection2.css'
 import './components/InfoSection3.css'
+import './components/Introduction.css'
+
 
 
 

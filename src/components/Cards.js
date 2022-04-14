@@ -4,24 +4,24 @@ import Card from "./Card";
 const cards = [
   {
     id: 1,
-    title: "item1",
+    title: "Rollos de polietileno",
     image: "https://picsum.photos/200/200",
-    text:"description for item 1"
+    text:""
     
   },
   {
     id: 2,
-    title: "item2",
+    title: "Empaques o laminas impresas",
     image: "https://picsum.photos/200/200",
-    text:"description for item 2"
+    text:""
 
    
   },
   {
     id: 3,
-    title: "item2",
+    title: "Bolsas o laminas",
     image: "https://picsum.photos/200/200",
-    text:"description for item 3"
+    text:""
 
    
   },

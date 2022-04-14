@@ -1,6 +1,6 @@
 .slider_section3 {
     min-height: 560px;
-    background: #424346;
+    background: #595F72;
     position: relative;
 }
 .slider_section3::after {
@@ -8,10 +8,10 @@
    position: absolute;
    top: 0;
    content: "";
-   background: rgb(255, 255, 255);
+   background: #0FA3B1;
    display: block;
    height: 100%;
-   transform: skew(-50deg);
+   transform: skew(-421deg);
 }
 .slider_section3::before {
    width: 100%;
@@ -19,7 +19,7 @@
    bottom: 0;
    right: 0px;
    content: "";
-   background: rgb(255, 255, 255);
+   background: transparent;
    display: block;
    height: 20px;
 }
@@ -50,18 +50,6 @@
     height: 100%;
     left: 0px;
     top: 0px;
-}
-
-.full {
-    float: left;
-    width: 100%;
-}
-
-.full {
-    width: 100%;
-    float: left;
-    margin: 0;
-    padding: 0;
 }
 
 .slider_section3 .full {

@@ -11,9 +11,7 @@ function Card({ imageSource, title, text }) {
       <div className="card-body text-black">
         <h4 className="card-title">{title}</h4>
         <p className="card-text text-black ">
-          {text
-            ? text
-            : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam deserunt fuga accusantium excepturi quia, voluptates obcaecati nam in voluptas perferendis velit harum dignissimos quasi ex? Tempore repellat quo doloribus magnam."}
+          {text}
         </p>
         
       </div>

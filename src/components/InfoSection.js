@@ -6,8 +6,10 @@ function InfoSection() {
             <div class="row">
                 <div class="col-md-6">
                     <div class="full">
-                        <h1><strong class="cur">more info</strong><br/>about tem 1</h1>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
+                        <h1><strong class="cur">Rollos de polietileno</strong><br/></h1>
+                            <p>
+                            fabricamos rollos tubulares, semitubulares y laminas en PEBD PEAD cumpliendo cuidadosamente las medidas y calibre que el cliente solicite.
+                            </p>
                     </div>
                 </div>
                 <div class="col-md-6">

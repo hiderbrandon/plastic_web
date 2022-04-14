@@ -11,8 +11,8 @@ function InfoSection2() {
                 </div>
                 <div class="col-md-6">
                     <div class="full">
-                        <h1><strong class="cur">more info</strong><br/>about tem 3</h1>
-                            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature</p>
+                        <h1><strong class="cur">Empaques o laminas impresas</strong><br/></h1>
+                            <p>para posicionar la marca de nuestros clientes ofrecemos una impresión flexográfica de hasta 6 colores ya sea en PEBD, PEAD o PP, logrando un vivo y persuasivo empaque. Ofrecemos también un asesoramiento técnico para la creación o mejoramiento del diseño del empaque de nuestros clientes.</p>
                     </div>
                 </div>
             </div>
