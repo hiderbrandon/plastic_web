@@ -1,3 +1,5 @@
+import {myImages} from "../images";
+
 function InfoSection() {
     return (  
 
@@ -14,7 +16,7 @@ function InfoSection() {
                 </div>
                 <div class="col-md-6">
                     <div class="full text_align_center">
-                        <img class="slide_img" src="https://picsum.photos/480/320?grayscale" alt="#" /> 
+                        <img class="slide_img scaled-image" src={myImages.products[0].image} alt="#" /> 
                     </div>
                 </div>
             </div>
