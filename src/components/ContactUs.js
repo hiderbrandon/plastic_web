@@ -75,12 +75,6 @@ function ContactUs() {
                   <span className="mb-0">Our Location</span>
                 </a>
               </div>
-              <div className="contact-item">
-                <a rel="nofollow" href="tel:0100200340" className="item-link">
-                  <i className="bi bi-whatsapp"></i>
-                  <span className="mb-0">255-662-5566</span>
-                </a>
-              </div>
               <div className="contact-item">&nbsp;</div>
             </div>
           </div>
