@@ -10,7 +10,8 @@ function InfoSection() {
                     <div class="full">
                         <h1><strong class="cur">Rollos de polietileno</strong><br/></h1>
                             <p>
-                            fabricamos rollos tubulares, semitubulares y laminas en PEBD PEAD cumpliendo cuidadosamente las medidas y calibre que el cliente solicite.
+                            Rollos de polietileno
+Fabricamos rollos tubulares, semitubulares y laminas en Polietileno de alta y baja densidad, a demanda de los requerimientos específicos del cliente entre los que se encuentran las dimensiones y el calibre del rollo.
                             </p>
                     </div>
                 </div>

@@ -13,8 +13,8 @@ function InfoSection2() {
                 </div>
                 <div class="col-md-6">
                     <div class="full">
-                        <h1><strong class="cur">Bolsas o laminas</strong><br/></h1>
-                            <p>poseemos diversos tipos de sellado siguiendo las exigencias de nuestros clientes. Por lo tanto ofrecemos al mercado</p>
+                        <h1><strong class="cur">Empaques microperforados</strong><br/></h1>
+                            <p>Empaques microperforados: Este tipo de empaque se utiliza principalmente con productos ornamentales como flores, helechos y demás plantas, entre otros.</p>
                     </div>
                 </div>
             </div>
