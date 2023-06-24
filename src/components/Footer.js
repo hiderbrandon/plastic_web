@@ -5,8 +5,8 @@ const Footer = () => {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-6 item text">
-                            <h3>Company Name</h3>
-                            <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.</p>
+                            <h3>Plasticos Santander</h3>
+                            <p>somos una compañai dedicada a la fabricacion de productos plasticos sencillos o personalizados.</p>
                         </div>
                         <div class="col item social"></div>
                     </div>

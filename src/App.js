@@ -15,14 +15,11 @@ import Introduction from "./components/Introduction"
 function App() {
   return (
     <div className="App" >
-     
-      <TheNavbar id='CarouselWrapper'></TheNavbar>
       <Introduction></Introduction>
       <Cards></Cards>
       <InfoSection></InfoSection>
       <InfoSection2></InfoSection2>
       <InfoSection3></InfoSection3>
-      <Slider id="TheSlider" ></Slider>
       <ContactUs></ContactUs>
       <a id="location">
       <Location ></Location>
