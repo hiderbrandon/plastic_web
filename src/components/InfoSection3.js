@@ -35,15 +35,8 @@ function InfoSection3() {
 
           <div className="col-sm-4">
             <div className="full">
-              <h1>
-                <strong className="cur">Empaques microperforados</strong>
-                <br />
-              </h1>
-              <p>
-                Empaques microperforados: Este tipo de empaque se utiliza
-                principalmente con productos ornamentales como flores, helechos
-                y demás plantas, entre otros.
-              </p>
+                <h1><strong class="cur">Empaques o laminas impresas</strong><br /></h1>
+                <p>para posicionar la marca de nuestros clientes ofrecemos una impresión flexográfica de hasta 6 colores ya sea en PEBD, PEAD o PP, logrando un vivo y persuasivo empaque. Ofrecemos también un asesoramiento técnico para la creación o mejoramiento del diseño del empaque de nuestros clientes.</p>
             </div>
           </div>
         </div>
