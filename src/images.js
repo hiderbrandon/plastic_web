@@ -45,23 +45,23 @@ export const myImages ={
   ,
   empaques:[ 
     {
-      id: 6,
+      id: 3,
       title: "Rollos de polietileno",
-      image: img6,
+      image: img3,
       text:""
       
     },
     {
-      id: 2,
+      id: 4,
       title: "Empaques o laminas impresas",
-      image: img2,
+      image: img4,
       text:""
      
     },
     {
-      id: 7,
+      id: 1,
       title: "Empaques microperforados",
-      image: img7,
+      image: img1,
       text:""
   
      

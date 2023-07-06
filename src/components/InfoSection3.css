@@ -57,6 +57,10 @@
     z-index: 9;
 }
 
+.full {
+    position: relative;
+    z-index: 1;
+}
 
 .cur {
     color: #ffffff;

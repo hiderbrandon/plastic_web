@@ -15,7 +15,7 @@ function ContactUs() {
         const mensajeFinal = `Nombre: ${nombre}\nEmail: ${email}\nMensaje: ${mensaje}`;
       
         // Generar el enlace de WhatsApp con el número de teléfono y el mensaje
-        const link = `https://api.whatsapp.com/send?phone=+573152123452&text=${encodeURIComponent(mensajeFinal)}`;
+        const link = `https://api.whatsapp.com/send?phone=573152123452&text=${encodeURIComponent(mensajeFinal)}`;
       
         // Redirigir al enlace de WhatsApp
         window.location.href = link;
