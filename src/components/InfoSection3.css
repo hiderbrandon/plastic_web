@@ -2,6 +2,7 @@
     min-height: 560px;
     background: #595F72;
     position: relative;
+    z-index: 1;
 }
 .slider_section3::after {
    width: 54%;
@@ -12,6 +13,8 @@
    display: block;
    height: 100%;
    transform: skew(-421deg);
+   z-index: -1;
+   
 }
 .slider_section3::before {
    width: 100%;
@@ -22,11 +25,13 @@
    background: transparent;
    display: block;
    height: 20px;
+   z-index: 1;
 }
 .slider_section3 .full {
     position: relative;
     z-index: 9;
     color: aliceblue;
+   
 }
 .slide_img {
    margin-top: 40px;
@@ -59,7 +64,7 @@
 
 .full {
     position: relative;
-    z-index: 1;
+    z-index: 9999;
 }
 
 .cur {
