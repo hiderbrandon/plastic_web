@@ -15,7 +15,7 @@ function ContactUs() {
         const mensajeFinal = `Nombre: ${nombre}\nEmail: ${email}\nMensaje: ${mensaje}`;
       
         // Generar el enlace de WhatsApp con el número de teléfono y el mensaje
-        const link = `https://api.whatsapp.com/send?phone=573022853330&text=${encodeURIComponent(mensajeFinal)}`;
+        const link = `https://api.whatsapp.com/send?phone=+573152123452&text=${encodeURIComponent(mensajeFinal)}`;
       
         // Redirigir al enlace de WhatsApp
         window.location.href = link;
@@ -58,21 +58,21 @@ function ContactUs() {
                   required
                 ></textarea>
                 <button type="submit" className="btn tm-btn-submit">
-                  Submit
+                  Enviar
                 </button>
               </form>
             </div>
             <div className="col-sm-12 col-md-6">
               <div className="contact-item">
-                <a rel="nofollow" href="mailto:mail@company.com" className="item-link">
+                <a rel="nofollow" href="mailto:plasticossantander1966@outlook.com" className="item-link">
                   <i className="far fa-2x fa-envelope mr-4"></i>
-                  <span className="mb-0">mail@company.com</span>
+                  <span className="mb-0">plasticossantander1966@outlook.com</span>
                 </a>
               </div>
               <div className="contact-item">
                 <a rel="nofollow" href="#location" className="item-link">
                   <i className="fas fa-2x fa-map-marker-alt mr-4"></i>
-                  <span className="mb-0">Our Location</span>
+                  <span className="mb-0">Donde Encontrarnos</span>
                 </a>
               </div>
               <div className="contact-item">&nbsp;</div>
