@@ -7,9 +7,17 @@ function InfoSection2() {
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="full text_align_center">
-                        <img class="slide_img scaled-image" src={myImages.products[2].image}  alt="#" /> 
-                    </div>
+                <div className="col-md-4">
+            {myImages.empaques.map((image) => (
+              <div className="full text_align_center">
+                <img
+                  className="slide_img scaled-image"
+                  src={image.image}
+                  alt="#"
+                />
+              </div>
+            ))}
+          </div>
                 </div>
                 <div class="col-md-6">
                     <div class="full">

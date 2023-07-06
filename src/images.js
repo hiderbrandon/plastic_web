@@ -2,23 +2,26 @@ import img1 from "./img/img1.jpeg";
 import img2 from "./img/img2.jpeg";
 import img3 from "./img/img3.jpeg";
 import img4 from "./img/img4.jpeg";
+import img5 from "./img/img5.jpg";
+import img6 from "./img/img6.jpeg";
+import img7 from "./img/img7.jpeg";
 
 export const myImages ={
 
 
   instalaciones : {
-    id: 4,
+    id: 5,
     title: "maquinaria",
-    image: img4,
+    image: img5,
     text:""
     
   },
 
   products: [ 
     {
-      id: 1,
+      id: 6,
       title: "Rollos de polietileno",
-      image: img1,
+      image: img6,
       text:""
       
     },
@@ -30,13 +33,39 @@ export const myImages ={
      
     },
     {
-      id: 3,
-      title: "Bolsas o laminas",
-      image: img3,
+      id: 7,
+      title: "Empaques microperforados",
+      image: img7,
       text:""
   
      
-    }
+    },
+
+  ]
+  ,
+  empaques:[ 
+    {
+      id: 6,
+      title: "Rollos de polietileno",
+      image: img6,
+      text:""
+      
+    },
+    {
+      id: 2,
+      title: "Empaques o laminas impresas",
+      image: img2,
+      text:""
+     
+    },
+    {
+      id: 7,
+      title: "Empaques microperforados",
+      image: img7,
+      text:""
+  
+     
+    },
   ]
 
 };
